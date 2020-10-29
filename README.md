@@ -1,4 +1,7 @@
 # Qlik Sense .NET Examples
+
+![GitHub](https://img.shields.io/github/license/StevenJDH/Qlik-Sense-.NET-Examples)
+
 A growing collection of .NET-based examples that show how to perform various actions in Qlik Sense programmatically. I decided to create these to help people along with their custom solutions for common reoccurring tasks. However, software architectural concepts and SOLID principles have been mostly ignored to keep things simple. I will provide more examples as my time permits and prioritize those that are specifically requested.
 
 ## Available examples
@@ -13,9 +16,6 @@ Qlik Sense .NET Examples is distributed in the hope that it will be useful, but 
 ## Do you have any questions?
 Many commonly asked questions are answered in the FAQ:
 [https://github.com/StevenJDH/Qlik-Sense-.NET-Examples/wiki/FAQ](https://github.com/StevenJDH/Qlik-Sense-.NET-Examples/wiki/FAQ)
-
-## Need to contact me?
-I can be reached here directly at [https://21.co/stevenjdh](https://21.co/stevenjdh "Contact Page")
 
 ## Want to show your support?
 
